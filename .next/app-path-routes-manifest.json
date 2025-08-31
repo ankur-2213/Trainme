@@ -1,0 +1,11 @@
+{
+  "/api/vapi/generate/route": "/api/vapi/generate",
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/(auth)/sign-in/page": "/sign-in",
+  "/(auth)/sign-up/page": "/sign-up",
+  "/(root)/interview/[id]/feedback/page": "/interview/[id]/feedback",
+  "/(root)/interview/[id]/page": "/interview/[id]",
+  "/(root)/page": "/",
+  "/(root)/interview/page": "/interview"
+}
